@@ -1,2 +1,2 @@
-# Space-Invaders
-A 2D game made in Python to implement fundamentals of programming and OOP concepts. 
+# Space-War
+A 2D game made in Python using Tkinter Gui.
